@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.TJHello</groupId>
+  <artifactId>AdDex-android</artifactId>
+  <versioning>
+    <release>v11</release>
+    <versions>
+      <version>v9</version>
+      <version>v10</version>
+      <version>v11</version>
+    </versions>
+    <lastUpdated>20200311033150</lastUpdated>
+  </versioning>
+</metadata>
