@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.TJHello.plugins</groupId>
   <artifactId>ADEasy</artifactId>
-  <version>0.9.0004</version>
+  <version>0.9.0009-a01</version>
   <dependencies>
     <dependency>
       <groupId>org.jetbrains.kotlin</groupId>
