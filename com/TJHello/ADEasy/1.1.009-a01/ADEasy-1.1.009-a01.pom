@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.TJHello</groupId>
   <artifactId>ADEasy</artifactId>
-  <version>0109-a05</version>
+  <version>1.1.009-a01</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
