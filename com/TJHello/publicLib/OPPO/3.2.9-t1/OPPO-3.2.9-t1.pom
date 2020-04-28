@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.TJHello.publicLib</groupId>
   <artifactId>OPPO</artifactId>
-  <version>3.2.9-t0</version>
+  <version>3.2.9-t1</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
