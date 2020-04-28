@@ -8,12 +8,6 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>androidx.appcompat</groupId>
-      <artifactId>appcompat</artifactId>
-      <version>1.1.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.TJHello.publicLib</groupId>
       <artifactId>OPPOLib</artifactId>
       <version>3.2.9</version>
