@@ -3,11 +3,18 @@
   <groupId>com.TJHello</groupId>
   <artifactId>ADEasy</artifactId>
   <versioning>
-    <release>1.1303-t10</release>
+    <release>1.1203-t08-vivo</release>
     <versions>
       <version>1.1303-t07</version>
       <version>1.1303-t10</version>
+      <version>1.1203-t03-vivo</version>
+      <version>1.1203-t03-oppo</version>
+      <version>1.1203-t04-vivo</version>
+      <version>1.1203-t05-vivo</version>
+      <version>1.1203-t06-vivo</version>
+      <version>1.1203-t07-vivo</version>
+      <version>1.1203-t08-vivo</version>
     </versions>
-    <lastUpdated>20200520082324</lastUpdated>
+    <lastUpdated>20200521093711</lastUpdated>
   </versioning>
 </metadata>
