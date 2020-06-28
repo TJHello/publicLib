@@ -3,7 +3,7 @@
   <groupId>com.TJHello</groupId>
   <artifactId>ADEasy</artifactId>
   <versioning>
-    <release>1.1203-t03-oppo-3</release>
+    <release>2.1304-t01-03</release>
     <versions>
       <version>1.1303-t07</version>
       <version>1.1303-t10</version>
@@ -31,7 +31,17 @@
       <version>1.1203-t03-oppo-1</version>
       <version>1.1203-t03-oppo-2</version>
       <version>1.1203-t03-oppo-3</version>
+      <version>1.1203-t03-oppo-4</version>
+      <version>1.1203-t03-oppo-5</version>
+      <version>1.1203-t03-oppo-6</version>
+      <version>1.1203-t03-oppo-7</version>
+      <version>1.1203-t03-oppo-8</version>
+      <version>1.1203-t03-oppo-9</version>
+      <version>1.1303-t11</version>
+      <version>2.1304-t01-01</version>
+      <version>2.1304-t01-02</version>
+      <version>2.1304-t01-03</version>
     </versions>
-    <lastUpdated>20200615090339</lastUpdated>
+    <lastUpdated>20200628103042</lastUpdated>
   </versioning>
 </metadata>
