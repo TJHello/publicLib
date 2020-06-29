@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.TJHello</groupId>
   <artifactId>ADEasy</artifactId>
-  <version>1.1203-t03-oppo-3</version>
+  <version>2.1304-t01</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -35,12 +35,6 @@
       <groupId>com.google.code.gson</groupId>
       <artifactId>gson</artifactId>
       <version>2.8.6</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.TJHello.publicLib</groupId>
-      <artifactId>MSA</artifactId>
-      <version>1.0.13</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
