@@ -3,7 +3,7 @@
   <groupId>com.TJHello</groupId>
   <artifactId>AdDex</artifactId>
   <versioning>
-    <release>v36</release>
+    <release>v37</release>
     <versions>
       <version>v1</version>
       <version>v2</version>
@@ -33,7 +33,8 @@
       <version>v34</version>
       <version>v35</version>
       <version>v36</version>
+      <version>v37</version>
     </versions>
-    <lastUpdated>20200601061732</lastUpdated>
+    <lastUpdated>20200708091440</lastUpdated>
   </versioning>
 </metadata>
