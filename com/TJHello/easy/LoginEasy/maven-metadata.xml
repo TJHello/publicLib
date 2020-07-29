@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.TJHello.easy</groupId>
+  <artifactId>LoginEasy</artifactId>
+  <versioning>
+    <release>0.9.1-t05</release>
+    <versions>
+      <version>0.9.1-t01</version>
+      <version>0.9.1-t02</version>
+      <version>0.9.1-t03</version>
+      <version>0.9.1-t04</version>
+      <version>0.9.1-t05</version>
+    </versions>
+    <lastUpdated>20200729072552</lastUpdated>
+  </versioning>
+</metadata>
