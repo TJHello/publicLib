@@ -3,10 +3,12 @@
   <groupId>com.TJHello</groupId>
   <artifactId>CAS</artifactId>
   <versioning>
-    <release>v0.9.001-t01</release>
+    <release>0.9.001-t02</release>
     <versions>
       <version>v0.9.001-t01</version>
+      <version>v0.9.001-t02</version>
+      <version>0.9.001-t02</version>
     </versions>
-    <lastUpdated>20200513103123</lastUpdated>
+    <lastUpdated>20200801151152</lastUpdated>
   </versioning>
 </metadata>
