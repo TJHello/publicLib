@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <style name="UpdateActivityTheme" parent="UpdateBaseTheme">
-        <item name="android:statusBarColor">@android:color/transparent</item>
-    </style>
-    <style name="appdownloader_style_notification_text" parent="@android:style/TextAppearance.Material.Notification"/>
-    <style name="appdownloader_style_notification_title" parent="@android:style/TextAppearance.Material.Notification.Title"/>
-</resources>
