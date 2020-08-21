@@ -6,12 +6,4 @@
   <artifactId>union-game-offline</artifactId>
   <version>2.0.4.009</version>
   <packaging>aar</packaging>
-  <dependencies>
-    <dependency>
-      <groupId>com.TJHello.publicAar.OPPO</groupId>
-      <artifactId>union-game-offline</artifactId>
-      <version>2.0.4.009</version>
-      <scope>compile</scope>
-    </dependency>
-  </dependencies>
 </project>
