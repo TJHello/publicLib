@@ -3,7 +3,7 @@
   <groupId>com.TJHello.plugins</groupId>
   <artifactId>UnionEasy</artifactId>
   <versioning>
-    <release>0.1.001-t15</release>
+    <release>0.1.001-t16</release>
     <versions>
       <version>0.1.001-t08</version>
       <version>0.1.001-t10</version>
@@ -12,7 +12,8 @@
       <version>0.1.001-t13</version>
       <version>0.1.001-t14</version>
       <version>0.1.001-t15</version>
+      <version>0.1.001-t16</version>
     </versions>
-    <lastUpdated>20200821084430</lastUpdated>
+    <lastUpdated>20200821155117</lastUpdated>
   </versioning>
 </metadata>
