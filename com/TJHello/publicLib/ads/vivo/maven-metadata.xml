@@ -10,6 +10,10 @@
       <version>2.4.2.0.0</version>
       <version>2.4.2.0.0-t01</version>
     </versions>
+<<<<<<< HEAD
     <lastUpdated>20200909161439</lastUpdated>
+=======
+    <lastUpdated>20200909111808</lastUpdated>
+>>>>>>> ab0e04821e81c5404f851262da5cfb4adaeb2e05
   </versioning>
 </metadata>

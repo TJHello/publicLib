@@ -8,6 +8,10 @@
       <version>1.6.7.0</version>
       <version>2.6.7.0</version>
     </versions>
+<<<<<<< HEAD
     <lastUpdated>20200909161444</lastUpdated>
+=======
+    <lastUpdated>20200909111809</lastUpdated>
+>>>>>>> ab0e04821e81c5404f851262da5cfb4adaeb2e05
   </versioning>
 </metadata>
