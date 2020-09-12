@@ -5,14 +5,8 @@
   <versioning>
     <release>2.14.4.41-t02</release>
     <versions>
-      <version>2.14.4.41</version>
-      <version>2.14.4.41-t01</version>
       <version>2.14.4.41-t02</version>
     </versions>
-<<<<<<< HEAD
-    <lastUpdated>20200909161420</lastUpdated>
-=======
-    <lastUpdated>20200909111758</lastUpdated>
->>>>>>> ab0e04821e81c5404f851262da5cfb4adaeb2e05
+    <lastUpdated>20200912092232</lastUpdated>
   </versioning>
 </metadata>
