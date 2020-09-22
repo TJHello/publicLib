@@ -3,7 +3,7 @@
   <groupId>com.TJHello</groupId>
   <artifactId>ADEasy</artifactId>
   <versioning>
-    <release>3.2001-t40</release>
+    <release>3.2001-t41</release>
     <versions>
       <version>3.2001-t31</version>
       <version>3.2001-t32</version>
@@ -13,7 +13,8 @@
       <version>3.2001-t36</version>
       <version>3.2001-t38</version>
       <version>3.2001-t40</version>
+      <version>3.2001-t41</version>
     </versions>
-    <lastUpdated>20200921122737</lastUpdated>
+    <lastUpdated>20200922070119</lastUpdated>
   </versioning>
 </metadata>
