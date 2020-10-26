@@ -3,11 +3,12 @@
   <groupId>com.TJHello.publicLib.ads</groupId>
   <artifactId>vivo</artifactId>
   <versioning>
-    <release>2.4.2.0.0-t02</release>
+    <release>3.4.2.0.0-t02</release>
     <versions>
       <version>2.4.2.0.0-t01</version>
       <version>2.4.2.0.0-t02</version>
+      <version>3.4.2.0.0-t02</version>
     </versions>
-    <lastUpdated>20201017024002</lastUpdated>
+    <lastUpdated>20201025132248</lastUpdated>
   </versioning>
 </metadata>

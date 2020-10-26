@@ -3,10 +3,11 @@
   <groupId>com.TJHello.publicLib.ads</groupId>
   <artifactId>mi</artifactId>
   <versioning>
-    <release>2.5.0.3-t01</release>
+    <release>3.5.0.3-t01</release>
     <versions>
       <version>2.5.0.3-t01</version>
+      <version>3.5.0.3-t01</version>
     </versions>
-    <lastUpdated>20201017023942</lastUpdated>
+    <lastUpdated>20201025132245</lastUpdated>
   </versioning>
 </metadata>
