@@ -3,14 +3,15 @@
   <groupId>com.TJHello.ew</groupId>
   <artifactId>SDKEasy</artifactId>
   <versioning>
-    <release>0.9.1-t06</release>
+    <release>0.9.1-t07</release>
     <versions>
       <version>0.9.1-t02</version>
       <version>0.9.1-t03</version>
       <version>0.9.1-t04</version>
       <version>0.9.1-t05</version>
       <version>0.9.1-t06</version>
+      <version>0.9.1-t07</version>
     </versions>
-    <lastUpdated>20201202031143</lastUpdated>
+    <lastUpdated>20201202105707</lastUpdated>
   </versioning>
 </metadata>
