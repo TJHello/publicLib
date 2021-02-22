@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.TJHello.publicLib.union</groupId>
+  <artifactId>mi</artifactId>
+  <versioning>
+    <release>3.2.5.03</release>
+    <versions>
+      <version>3.2.5.01</version>
+      <version>3.2.5.02</version>
+      <version>3.2.5.03</version>
+    </versions>
+    <lastUpdated>20210217121204</lastUpdated>
+  </versioning>
+</metadata>
